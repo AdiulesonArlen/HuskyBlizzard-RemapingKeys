@@ -48,3 +48,14 @@ São os keysyms que eu quero atribuir ao keycode em questão. Nessa etapa é mui
 && 
 ---
 É um concatenador de comandos, indicando que o comando ainda não acabou e que o sistema operacional deve ler e executar o próximo em seguida. Porém, o comando para de ser executado se um deles estiver incorreto.
+
+Fontes que deram origem a esse trabalho
+---
+- Como remapear teclas no Linux? 
+https://dev.to/nfo94/como-remapear-teclas-no-linux-46p8
+
+- REMAPEAMENTO DE TECLAS NO TECLADO DO UBUNTU 
+https://www.vivaolinux.com.br/topico/Iniciantes-no-Linux/Remapeamento-de-teclas-no-teclado-do-ubuntu
+
+- Modifique as configurações do teclado com o Xmodmap
+https://blog.desdelinux.net/pt/modifica-la-configuracion-de-tu-teclado-con-xmodmap/#:~:text=Para%20come%C3%A7ar%2C%20XmodmapName%20%C3%A9%20respons%C3%A1vel,%22%20e%20os%20%22keysym%22.
