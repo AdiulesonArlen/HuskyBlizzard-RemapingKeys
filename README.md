@@ -1,5 +1,20 @@
 # HuskyBlizzard-RemapingKeys
  Remapeamento do Teclado Husky Blizzard Gaming 60%
+---
+O foco desse script é a utilização das teclas direcionais do teclado Husky Blizzard Gaming 60% nos Sistemas Operacionais Linux, porém só o testei nos sistemas baseados no Ubuntu. Minha Dstro favorita é o Zorin OS que atualmente está na versão 16.1.
+
+Com o utilitário Xmodmap como modificador de funções das teclas através de um documento com extensão .sh, que adicionei aos Aplicativos Iniciais de Sessão pude ativar o script que está disponível neste repositório.
+
+Podem baixar e fazer bom uso dele!
+---
+Devo avisar que ainda não descobri uma forma de manter a função do Shift_R como Shift.
+
+Atualmente, ele serve apenas como ativador das teclas direcionais e não serve, por exemplo, 
+pra tornar alguma letra maiúscula (e isso me frustra muito).
+
+Quando descobrir, podem ter certeza de que vou atualizar no repositório e avisarei por aqui.
+
+Mas peço que, se vocês descobrirem antes de mim, façam o favor de compartilhar a solução.
 
 Presta atenção!
 ---
